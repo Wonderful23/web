@@ -1,0 +1,23 @@
+.footer{
+    margin-left:25%;
+    margin-right:25%;
+    display: flex;
+}
+.left{
+    flex:1;
+}
+.right{
+    flex:1;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide p {
+    color: #fff;
+    float: left;
+  }

@@ -1,0 +1,28 @@
+div .parse{
+	font-weight: 700;
+    margin-bottom: 20px;
+    color:#1f6fb9;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div .inner{
+	font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cards-header{
+    margin-left:25%;
+    margin-right:25%;
+    display: flex;
+}
+.cards-header-left{
+    flex:1;
+}
+.cards-header-search{
+    margin-right:25%;
+    margin-top: 1%;
+}
+div .lengthwidth{
+    width:30px; height:20px
+}
